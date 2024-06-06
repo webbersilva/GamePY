@@ -25,7 +25,7 @@ class Calcular:
         return self.__operacao
 
     @property
-    def reusltado(self: object) -> int:
+    def resultado(self: object) -> int:
         return self.__resultado
 
     def __str__(self: object) -> str:
